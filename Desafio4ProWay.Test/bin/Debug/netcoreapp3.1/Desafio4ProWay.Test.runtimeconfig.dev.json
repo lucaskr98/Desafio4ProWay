@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\smigo\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\smigo\\.nuget\\packages"
+    ]
+  }
+}
